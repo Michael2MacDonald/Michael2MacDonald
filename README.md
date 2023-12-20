@@ -1,12 +1,12 @@
 
 
 ### Hi there 👋
-I am a 18yo from Oregon who loves to tinker and take things apart to see how they work. <!-- I am intrested in embedded engineering and I want -->
+I am a 19yo from Oregon who loves to tinker and take things apart to see how they work. <!-- I am intrested in embedded engineering and I want -->
 - 🏷️ Name: Micahel MacDonald
 - 😄 Pronouns: He/Him/His
 - 📍 Location: Oregon, USA
-- 🎓 Occupation: In High School
-- 💙 Interest: I am interested in embedded engineering
+- 🎓 Occupation: In College Studying Embedded Engineering
+- 💙 Interest: I am interested in embedded engineering and photography
 
 
 ### Projects:
