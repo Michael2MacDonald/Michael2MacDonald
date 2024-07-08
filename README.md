@@ -1,16 +1,16 @@
 
 
 ### Hi there 👋
-I am a 19yo from Oregon who loves to tinker and take things apart to see how they work. <!-- I am intrested in embedded engineering and I want -->
+I am a 19yo from Oregon who loves to tinker and take things apart to see how they work.
 - 🏷️ Name: Micahel MacDonald
 - 😄 Pronouns: He/Him/His
 - 📍 Location: Oregon, USA
-- 🎓 Occupation: In College Studying Embedded Engineering
-- 💙 Interest: I am interested in embedded engineering and photography
+- 🎓 Occupation: In college studying Embedded Engineering and interning at Araceli Bio during the summers
+- 💙 Interest: I am interested in Embedded Engineering, Science, and Photography
 
 
 ### Projects:
-I am currently working on a project I started called OSAB which stands for Open Source Autnomous Boat. As the name might suggest, I am developing an open source, autonomous, 3D printed boat. The goal is to develop a vessel that is capable of operating autonomously in the ocean for at least a month at a time while collecting data. I hope that this project leads to more accessable ocean and atmosphere research for hobbyists and scientists alike. You can find the project github [here](https://github.com/Open-Source-Autonomous-Boat/) and you can learn more on our [website](https://osab.xyz/)!
+I am currently working on a project I started called OSAB which stands for Open Source Autonomous Boat. As the name might suggest, I am developing an open source, autonomous, 3D printed boat. The goal is to develop a vessel that is capable of operating autonomously in the ocean for weeks or months at a time while collecting data for research and conservation efforts. I hope that this project leads to more accessible ocean and atmosphere research for hobbyists, scientists, and students alike. You can find the project github [here](https://github.com/Open-Source-Autonomous-Boat/) and you can learn more on our [website](https://osab.xyz/)!
 
 
 
