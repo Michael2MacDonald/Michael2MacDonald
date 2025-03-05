@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-I am a 19yo from Oregon who loves to tinker and take things apart to see how they work.
+I am a 20yo from Oregon who loves to tinker and take things apart to see how they work.
 - 🏷️ Name: Micahel MacDonald
 - 😄 Pronouns: He/Him/His
 - 📍 Location: Oregon, USA
@@ -10,7 +10,7 @@ I am a 19yo from Oregon who loves to tinker and take things apart to see how the
 
 
 ### Projects:
-I am currently working on a project I started called OSAB which stands for Open Source Autonomous Boat. As the name might suggest, I am developing an open source, autonomous, 3D printed boat. The goal is to develop a vessel that is capable of operating autonomously in the ocean for weeks or months at a time while collecting data for research and conservation efforts. I hope that this project leads to more accessible ocean and atmosphere research for hobbyists, scientists, and students alike. You can find the project github [here](https://github.com/Open-Source-Autonomous-Boat/) and you can learn more on our [website](https://osab.xyz/)!
+I am currently working on a project I started called OSAB (Open Source Autonomous Boat) which is developing open-source, autonomous vessels for science research, environmental activism, and law enforcement. We are designing several vessels to serve as platforms for missions, each designed to be modular and configurable to achieve a wide range of mission objectives at the lowest cost possible. Currently, we have plans for three different vessel designs: a long-endurance ocean-going vessel, a smaller machine vision equipt vessel for short missions in areas with heavy traffic, and a medium-sized long-range vessel for coastal missions and missions in rivers and lakes. We are also developing sets of standards based on both existing standards and protocols as well as new ones, to enable modularity and configurability across different autonomous platforms. The goal is to increase access to low-cost autonomous aquatic vessels for researchers, scientists, hobbyists, and institutions. You can find the project github [here](https://github.com/Open-Source-Autonomous-Boat/) and you can learn more on our [website](https://osab.xyz/)!
 
 
 
