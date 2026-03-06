@@ -1,7 +1,7 @@
 
 
 ### Hi there 👋
-I am a 20yo from Oregon who loves to tinker and take things apart to see how they work.
+I am a 21yo from Oregon who loves to tinker and take things apart to see how they work.
 - 🏷️ Name: Micahel MacDonald
 - 😄 Pronouns: He/Him/His
 - 📍 Location: Oregon, USA
